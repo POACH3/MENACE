@@ -9,6 +9,7 @@ Inspired by Donald Michie’s mechanical reinforcement learning experiment, [MEN
 <br>
 
 ---
+<br>
 
 ## Overview
 
@@ -33,6 +34,7 @@ Originally, MENACE was implemented physically using matchboxes and colored beads
 <br><br>
 
 ---
+<br>
 
 ## Project Info
 **Status:** Beta (usable, but lacks unit testing)  
